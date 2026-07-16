@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "title": "Air Fryer Peanut Butter Cookies",
+    "slug": "air-fryer-peanut-butter-cookies",
+    "category": "Desserts",
+    "cookTime": "10 min",
+    "temperature": "350°F",
+    "difficulty": "Easy",
+    "season": "All",
+    "servings": 12,
+    "ingredients": [
+      "Peanut Butter",
+      "Sugar",
+      "Egg"
+    ],
+    "website": "https://fryerbites.com"
+  },
+  {
+    "id": 2,
+    "title": "Air Fryer Monkey Bread",
+    "slug": "air-fryer-monkey-bread",
+    "category": "Desserts",
+    "cookTime": "15 min",
+    "temperature": "350°F",
+    "difficulty": "Easy",
+    "season": "Fall",
+    "servings": 6,
+    "website": "https://fryerbites.com"
+  },
+  {
+    "id": 3,
+    "title": "Air Fryer Apple Roses",
+    "slug": "air-fryer-apple-roses",
+    "category": "Desserts",
+    "cookTime": "18 min",
+    "temperature": "350°F",
+    "difficulty": "Medium",
+    "season": "Fall",
+    "website": "https://fryerbites.com"
+  },
+  {
+    "id": 4,
+    "title": "Air Fryer Candied Pecans",
+    "slug": "air-fryer-candied-pecans",
+    "category": "Snacks",
+    "cookTime": "10 min",
+    "temperature": "320°F",
+    "difficulty": "Easy",
+    "season": "Winter",
+    "website": "https://fryerbites.com"
+  }
+]
