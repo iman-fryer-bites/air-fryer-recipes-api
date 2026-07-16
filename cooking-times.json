@@ -1,0 +1,22 @@
+[
+  {
+    "food": "French Fries",
+    "temperature": "400°F",
+    "time": "15 minutes"
+  },
+  {
+    "food": "Chicken Breast",
+    "temperature": "380°F",
+    "time": "18-22 minutes"
+  },
+  {
+    "food": "Chicken Wings",
+    "temperature": "400°F",
+    "time": "22 minutes"
+  },
+  {
+    "food": "Cookies",
+    "temperature": "350°F",
+    "time": "8-10 minutes"
+  }
+]
