@@ -1,0 +1,31 @@
+[
+  {
+    "temperature": "320°F",
+    "recommendedFor": [
+      "Nuts",
+      "Vegetables"
+    ]
+  },
+  {
+    "temperature": "350°F",
+    "recommendedFor": [
+      "Cookies",
+      "Desserts",
+      "Pastries"
+    ]
+  },
+  {
+    "temperature": "380°F",
+    "recommendedFor": [
+      "Chicken",
+      "Pork"
+    ]
+  },
+  {
+    "temperature": "400°F",
+    "recommendedFor": [
+      "Fries",
+      "Frozen Foods"
+    ]
+  }
+]
