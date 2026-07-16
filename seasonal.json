@@ -1,0 +1,30 @@
+[
+  {
+    "season": "Spring",
+    "recipes": [
+      "Asparagus",
+      "Carrots"
+    ]
+  },
+  {
+    "season": "Summer",
+    "recipes": [
+      "BBQ Chicken",
+      "Corn"
+    ]
+  },
+  {
+    "season": "Fall",
+    "recipes": [
+      "Apple Roses",
+      "Pumpkin Desserts"
+    ]
+  },
+  {
+    "season": "Winter",
+    "recipes": [
+      "Candied Pecans",
+      "Monkey Bread"
+    ]
+  }
+]
